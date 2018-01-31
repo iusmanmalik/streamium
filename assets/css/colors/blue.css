@@ -8,13 +8,13 @@
 }
 
 /* THE OVERLAY COLORS WHICH WILL SHOW IN FRONT OF BACKGROUND IMAGES*/
-.overlay-layer {
-	background: rgba(0, 5, 8, 0.75);
-}
+/*.overlay-layer {*/
+	/*background: rgba(0, 5, 8, 0.75);*/
+/*}*/
 
-.overlay-layer-2 {
-	background: rgba(0, 5, 8, 0.90);
-}
+/*.overlay-layer-2 {*/
+	/*background: rgba(0, 5, 8, 0.90);*/
+/*}*/
 
 /* NAVBAR AND LINK COLORS */
 .navbar-inverse .navbar-toggle:hover,
